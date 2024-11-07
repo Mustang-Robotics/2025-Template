@@ -1,0 +1,19 @@
+{
+  "robotWidth": 0.7112,
+  "robotLength": 0.7112,
+  "holonomicMode": true,
+  "pathFolders": [
+    "A Transitions",
+    "Amp Folder",
+    "Center Transitions",
+    "B Transitions",
+    "Positional Shoot Locations",
+    "Stage to A"
+  ],
+  "autoFolders": [],
+  "defaultMaxVel": 2.0,
+  "defaultMaxAccel": 2.0,
+  "defaultMaxAngVel": 360.0,
+  "defaultMaxAngAccel": 360.0,
+  "maxModuleSpeed": 3.0
+}

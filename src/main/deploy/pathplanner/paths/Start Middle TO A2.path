@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 1.28,
+        "y": 5.51
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 1.862709708701696,
+        "y": 5.51
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 2.5292958694025494,
+        "y": 5.546821904454621
+      },
+      "prevControl": {
+        "x": 2.0115924916534516,
+        "y": 5.537577201280529
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "A2"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 2.0,
+    "maxAcceleration": 2.0,
+    "maxAngularVelocity": 360.0,
+    "maxAngularAcceleration": 360.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 180.0,
+    "rotateFast": true
+  },
+  "reversed": false,
+  "folder": "Stage to A",
+  "previewStartingState": {
+    "rotation": -179.46949868332612,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}

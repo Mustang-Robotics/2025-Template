@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 2.6456402107795283,
+        "y": 7.445640937793504
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.3098053572916397,
+        "y": 7.529599651165476
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 2.146327011795348,
+        "y": 7.445640937793504
+      },
+      "prevControl": {
+        "x": 2.4261893897019218,
+        "y": 7.361682224421532
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Shoot - Stage Top"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 2.0,
+    "maxAcceleration": 2.0,
+    "maxAngularVelocity": 360.0,
+    "maxAngularAcceleration": 360.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -134.05461089553555,
+    "rotateFast": true
+  },
+  "reversed": false,
+  "folder": "Positional Shoot Locations",
+  "previewStartingState": {
+    "rotation": -147.03059609653786,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}

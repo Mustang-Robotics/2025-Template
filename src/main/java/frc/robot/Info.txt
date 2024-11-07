@@ -1,0 +1,38 @@
+2024 Programming Plans
+
+General Commands List:
+-Main Arm 
+--Rotate Between Two positions
+--Stop at any specific location using an encoder
+---Buttons for up and down motion
+---Uses Talon SRX x1
+-ProfiledPID
+--RevThroughBoreEncoder
+##Usage:
+-SetGoal for Specific Positions. Use Specific Buttons
+
+-Intake:
+--Base value is a slow pull in.
+--PID to rev to full power
+--Full Power for initial intake and final shot
+---Uses Talon SRX x1
+-SubsystemBase
+##Usage:
+
+
+-Shooter:
+--Base value is off.
+--Full value for on with a PID loop.
+---Uses Spark Maxx x2 (Also encoder)
+--PID Subsystem
+##Usage:
+
+-Climbing Mechanism:
+---Uses Talon SRX x1
+##Usage:
+
+
+Questions:
+-How does a built-in PID controller/subsystem effect the speed of it's motors?
+-is the Rev Through Bore Encoder an absolute encoder? (Arm) I don't know how to use it.
+-For the shooter subsystem, is the two max sparks what we want? I can set the speeds to a base speed, but what exactly do you want?

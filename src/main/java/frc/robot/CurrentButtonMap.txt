@@ -1,0 +1,16 @@
+Button Map:
+
+XBox Controller:
+-A: Resets the gyro- whenever it gets hit/messed up for fieldcenteric driving.
+-B
+-X: Sets the shooter motors speeds to 1.
+-Y
+-Start
+-Back
+-Left Bumper
+-Right Bumper: Locks the wheels in a defensive X
+
+-Left Joystick: (Moves the robot forewards and backwards)
+-Right Joystick: (Turns the robot)
+-Left Trigger
+-Right Trigger

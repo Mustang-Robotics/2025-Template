@@ -1,0 +1,16 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/Alliance Color": "String Chooser",
+      "/SmartDashboard/Arm": "Subsystem",
+      "/SmartDashboard/Auto Chooser": "String Chooser",
+      "/SmartDashboard/VisionSystemSim-Arducam_OV9281_USB_Camera/Sim Field": "Field2d",
+      "/SmartDashboard/VisionSystemSim-USB_Camera/Sim Field": "Field2d",
+      "/SmartDashboard/pose": "Field2d"
+    }
+  },
+  "NetworkTables Info": {
+    "visible": true
+  }
+}

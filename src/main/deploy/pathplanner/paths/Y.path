@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 2.9622001062183942,
+        "y": 5.531946336619947
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.68233772831182,
+        "y": 5.503960098829289
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 2.6170365068002863,
+        "y": 5.531946336619947
+      },
+      "prevControl": {
+        "x": 2.9715288521486136,
+        "y": 5.531946336619947
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Shoot - Stage Center"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 2.0,
+    "maxAcceleration": 2.0,
+    "maxAngularVelocity": 360.0,
+    "maxAngularAcceleration": 360.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 179.55836604720986,
+    "rotateFast": true
+  },
+  "reversed": false,
+  "folder": "Positional Shoot Locations",
+  "previewStartingState": {
+    "rotation": 179.19871266989304,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}
